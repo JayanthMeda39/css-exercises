@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(247, 182, 191);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#myfirstid {
+    color: rgb(16, 16, 238);
+    font-size: 36px;
+}
+
+.imwaycooler {
+    font-size: 24px;
+}
+
+#anotherid {
+    background-color: #53e953;
+    font-size: 24px;
+    font-weight: bold;
+}
